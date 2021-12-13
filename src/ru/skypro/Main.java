@@ -33,6 +33,7 @@ public class Main {
         else {
             System.out.println(year + " год не является високосным");
         }
+
         //4
         int deliveryDistance = 95;
         if (deliveryDistance < 20)
